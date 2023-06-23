@@ -17,5 +17,6 @@ Esta evolução do projeto inclui os seguintes projetos:
 4. Camada de Apresentação Web (UploadArquivoAula): Este projeto é responsável pela interface de apresentação do sistema. Ele implementa a funcionalidade de upload de arquivos usando a função "IFormFile" para salvar os arquivos no banco de dados SQL Server.
 Eeste Projecto segue os princípios fundamentais da Clean Architecture. Essa versão aprimorada pode ser encontrada sempre no meu repositório no GitHub (LEOMAZENDA), demonstrando seu progresso e avanços no projeto.
 
-Poderá ser Evolu´da futuramente 
-obrigado
+Este poderá ser Evoluido futuramente.
+
+Obrigado
